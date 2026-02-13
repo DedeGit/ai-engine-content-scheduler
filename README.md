@@ -21,3 +21,8 @@ Project ini dibuat untuk membantu automasi posting konten marketing tanpa harus 
 1. Clone repository:
 ```bash
 git clone https://github.com/DedeGit/ai-engine.git
+
+## Screenshot
+
+![Homepage](screenshots/home.png)
+
