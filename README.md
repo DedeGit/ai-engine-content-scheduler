@@ -17,12 +17,14 @@ AI Engine adalah sistem berbasis Python untuk melakukan upload konten secara oto
 ## 📌 Use Case
 Project ini dibuat untuk membantu automasi posting konten marketing tanpa harus manual setiap hari.
 
+## Screenshot
+
+![Homepage](screenshots/home.png)
+
 ## ⚙️ How to Run
 1. Clone repository:
 ```bash
 git clone https://github.com/DedeGit/ai-engine.git
 
-## Screenshot
 
-![Homepage](screenshots/home.png)
 
